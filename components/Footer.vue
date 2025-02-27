@@ -58,7 +58,7 @@
       <ul>
         <li>
           <NuxtLink
-            to="https://instagram.com/amjosephjenkins"
+            to="https://instagram.com/withgodspeedd"
             class="animate-text"
             >Instagram</NuxtLink
           >

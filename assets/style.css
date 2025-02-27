@@ -139,7 +139,8 @@ input {
   margin-bottom: 30px;
 }
 
-.form-submit {
+.form-submit,
+button {
   border: none;
   font-family: "IBM Plex";
   text-transform: uppercase;

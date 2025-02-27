@@ -63,7 +63,11 @@
             >Instagram</NuxtLink
           >
         </li>
-        <li><NuxtLink to="" class="animate-text">Linkedin</NuxtLink></li>
+        <li>
+          <NuxtLink to="https://x.com/withgodspeedd" class="animate-text"
+            >Twitter/X</NuxtLink
+          >
+        </li>
         <li>
           <a href="mailto:jenkins@withgodspeed.com" class="animate-text"
             >Email Jenkins</a

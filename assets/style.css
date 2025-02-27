@@ -147,6 +147,7 @@ button {
   letter-spacing: -0.025rem;
   font-weight: bold;
   outline: none;
+  width: fit-content;
   background-color: transparent;
   cursor: pointer;
 }

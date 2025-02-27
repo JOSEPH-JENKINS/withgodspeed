@@ -4,7 +4,7 @@
       SEND US THREE MONTHS OF DATA AND WE'LL SHOW YOU ACTIONABLE STEPS TO
       IMPROVE YOUR MARKETING.
     </h2>
-    <span class="cta animate-text" id="leadFormOpen">Enter details</span>
+    <button class="cta animate-text" id="leadFormOpen">Enter details</button>
     <form
       method="POST"
       action="https://script.google.com/macros/s/AKfycbyw0kfMiXezbBa5dZ4jTfLepYxD0XIdYq_Ap6kHwnaqrDIt1NF-MErew2KcZUnvBE_L/exec"

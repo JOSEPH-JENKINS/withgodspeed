@@ -33,6 +33,13 @@
         required
         autocomplete="email"
       />
+      <input
+        type="text"
+        name="Company"
+        id="company"
+        placeholder="Type in your company"
+        required
+      />
 
       <button type="submit" class="form-submit">Submit details</button>
     </form>

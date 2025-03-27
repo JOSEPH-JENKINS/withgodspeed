@@ -39,6 +39,7 @@ a,
 button {
   text-decoration: none;
   transition: all 25ms ease-in;
+  color: blue !important;
   /* white-space: nowrap; */
 }
 

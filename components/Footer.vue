@@ -1,8 +1,8 @@
 <template>
   <div class="footer container-grid">
     <h2 class="header animate-text">
-      SEND US THREE MONTHS OF DATA AND WE'LL SHOW YOU ACTIONABLE STEPS TO
-      IMPROVE YOUR MARKETING.
+      Join now. Drop your email, phone number and get the one Simple Growth Plan
+      the best brands use to break through.
     </h2>
     <button class="cta animate-text" id="leadFormOpen">Enter details</button>
     <form

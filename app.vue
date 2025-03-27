@@ -3,24 +3,26 @@
     <Navigation />
     <NuxtPage />
     <Footer />
+    <Analytics />
   </div>
 </template>
 
 <script setup>
 import { onMounted } from "vue";
+import { Analytics } from "@vercel/analytics/nuxt";
 
 useSeoMeta({
-  title: "Godspeed. Growth Partner For Supplements Brands",
-  ogTitle: "Godspeed. Growth Partner For Supplements Brands.",
+  title: "Godspeed. Growth Partner For Wellness Brands",
+  ogTitle: "Godspeed. Growth Partner For Wellness Brands.",
   description:
-    "Helping supplement brands add $50k to $100k in monthly revenue with creator-lead ads, retention systems and better messaging.",
+    "Helping wellness brands add $50k to $100k in monthly revenue with creator-lead ads, retention systems and better messaging.",
   ogDescription:
-    "Helping supplement brands add $50k to $100k in monthly revenue with creator-lead ads, retention systems and better messaging.",
+    "Helping wellness brands add $50k to $100k in monthly revenue with creator-lead ads, retention systems and better messaging.",
   twitterCard: "summary_large_image",
-  twitterTitle: "Godspeed. Growth Partner For Supplements Brands",
+  twitterTitle: "Godspeed. Growth Partner For Wellness Brands",
   twitterDescription:
-    "Helping supplement brands add $50k to $100k in monthly revenue with creator-lead ads, retention systems and better messaging",
-  ogUrl: "https://withgodspeed.com",
+    "Helping wellness brands add $50k to $100k in monthly revenue with creator-lead ads, retention systems and better messaging",
+  ogUrl: "https://www.withgodspeed.com",
 });
 
 onMounted(() => {

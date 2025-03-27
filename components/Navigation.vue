@@ -16,6 +16,11 @@
           >
         </li>
         <li>
+          <NuxtLink to="/community" class="animate-text"
+            >Join the community</NuxtLink
+          >
+        </li>
+        <li>
           <NuxtLink
             to="https://calendar.app.google/fsvtvReGv3qrMGyg7"
             target="_blank"

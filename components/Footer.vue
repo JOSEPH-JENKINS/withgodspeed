@@ -37,8 +37,15 @@
       <button type="submit" class="form-submit">Submit details</button>
     </form>
     <h1 class="lead-success-message disappear">
-      Data sent: Thanks for the info. if you check your inbox, you should have
-      an email from us.
+      You're In. <br />
+
+      Most brands stay stuck because they try to figure it all out alone. You
+      won't be one of them.<br />
+
+      I just sent the community link to your inbox. Check it now. This is where
+      founders break through.<br />
+
+      Welcome to Godspeed. — Jenkins
     </h1>
     <nav class="links">
       <ul>

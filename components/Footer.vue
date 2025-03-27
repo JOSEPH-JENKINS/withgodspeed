@@ -33,20 +33,6 @@
         required
         autocomplete="email"
       />
-      <input
-        type="url"
-        name="Company"
-        id="company"
-        placeholder="Type in your company website link. ex- https://company.com"
-        required
-      />
-      <input
-        type="url"
-        name="M.Data"
-        id="marketing"
-        placeholder="Link to your 3 months marketing data"
-        required
-      />
 
       <button type="submit" class="form-submit">Submit details</button>
     </form>

@@ -1,7 +1,7 @@
 <template>
   <div class="navigation container-grid">
     <h1 class="header animate-text">
-      <NuxtLink to="/">Godspeed</NuxtLink> Growth Partner for Supplement Brands
+      <NuxtLink to="/">Godspeed</NuxtLink> Growth Partner for Wellness Brands
     </h1>
     <nav class="links">
       <ul>

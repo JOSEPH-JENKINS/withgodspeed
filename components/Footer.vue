@@ -39,11 +39,11 @@
     <h1 class="lead-success-message disappear">
       You're In. <br />
 
-      Most brands stay stuck because they try to figure it all out alone. You
-      won't be one of them.<br />
+      Most brands stay stuck because they try to figure it all out alone.<br />
+      You won't be one of them.<br />
 
-      I just sent the community link to your inbox. Check it now. This is where
-      founders break through.<br />
+      I just sent the community link to your inbox. Check it now.<br />
+      This is where founders break through.<br />
 
       Welcome to Godspeed. — Jenkins
     </h1>

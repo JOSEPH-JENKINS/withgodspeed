@@ -37,10 +37,14 @@ a {
 
 a,
 button {
-  text-decoration: none;
+  text-decoration: underline;
   transition: all 25ms ease-in;
   color: blue !important;
   /* white-space: nowrap; */
+}
+
+h1 {
+  color: rgb(50, 0, 230);
 }
 
 a::after {

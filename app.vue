@@ -1,6 +1,5 @@
 <template>
   <div class="layout-grid container-spacing">
-    <Navigation />
     <NuxtPage />
     <Footer />
     <Analytics />

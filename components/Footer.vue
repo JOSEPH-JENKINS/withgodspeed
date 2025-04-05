@@ -1,6 +1,15 @@
 <template>
   <div class="footer container-grid">
     <h2 class="header animate-text">
+      Want us to do the same for you? Book your free call below. We'll show you
+      where you're losing clients—and how to fix it.
+    </h2>
+    <NuxtLink
+      to="https://calendar.app.google/fsvtvReGv3qrMGyg7"
+      class="animate-text"
+      >Book a call</NuxtLink
+    >
+    <!-- <h2 class="header animate-text">
       Join now. Drop your email, phone number and get the one Simple Growth Plan
       the best brands use to break through.
     </h2>
@@ -53,7 +62,7 @@
       This is where founders break through.<br />
 
       Welcome to Godspeed. — Jenkins
-    </h1>
+    </h1> -->
     <nav class="links">
       <ul>
         <li>
@@ -77,7 +86,7 @@
           <NuxtLink
             to="https://calendar.app.google/fsvtvReGv3qrMGyg7"
             class="animate-text"
-            >Calendar</NuxtLink
+            >Book a call</NuxtLink
           >
         </li>
       </ul>
@@ -85,7 +94,7 @@
   </div>
 </template>
 
-<script setup>
+<!-- <script setup>
 import { onMounted } from "vue";
 
 onMounted(() => {
@@ -124,4 +133,4 @@ onMounted(() => {
     }
   });
 });
-</script>
+</script> -->

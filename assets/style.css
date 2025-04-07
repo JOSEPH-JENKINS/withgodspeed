@@ -47,6 +47,12 @@ h1 {
   color: rgb(50, 0, 230);
 }
 
+video {
+  width: 100%;
+  border: none;
+  min-height: calc(100% / 1.5);
+}
+
 a::after {
   content: ".";
 }

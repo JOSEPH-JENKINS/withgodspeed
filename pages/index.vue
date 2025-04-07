@@ -10,7 +10,8 @@
       From slow follow-ups, weak content, and a forgettable brand.<br />
       We fix all that.
     </h2>
-    <!-- <h1 class="animate-text">Watch this below before you leave.</h1> -->
+    <h1 class="animate-text">Watch this</h1>
+    <video src="https://youtu.be/zShFTWmSQTQ" controls></video>
     <h2 class="animate-text">
       Clients don't wait.<br />
       If you're not fast, they book with someone else. <br />

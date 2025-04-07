@@ -11,16 +11,19 @@ import { onMounted } from "vue";
 import { Analytics } from "@vercel/analytics/nuxt";
 
 useSeoMeta({
-  title: "Godspeed. Growth Partner For Wellness Brands",
-  ogTitle: "Godspeed. Growth Partner For Wellness Brands.",
+  title:
+    "Godspeed — The Booking Engine Behind Med Spa Brands Clients Obsess Over",
+  ogTitle:
+    "Godspeed — The Booking Engine Behind Med Spa Brands Clients Obsess Over.",
   description:
-    "Helping wellness brands add $50k to $100k in monthly revenue with creator-lead ads, retention systems and better messaging.",
+    "We help med spas book 30+ clients/month using AI-powered systems that boost bookings, build brand loyalty, and eliminate $20K+ in lost revenue.",
   ogDescription:
-    "Helping wellness brands add $50k to $100k in monthly revenue with creator-lead ads, retention systems and better messaging.",
+    "We help med spas book 30+ clients/month using AI-powered systems that boost bookings, build brand loyalty, and eliminate $20K+ in lost revenue.",
   twitterCard: "summary_large_image",
-  twitterTitle: "Godspeed. Growth Partner For Wellness Brands",
+  twitterTitle:
+    "Godspeed — The Booking Engine Behind Med Spa Brands Clients Obsess Over",
   twitterDescription:
-    "Helping wellness brands add $50k to $100k in monthly revenue with creator-lead ads, retention systems and better messaging",
+    "We help med spas book 30+ clients/month using AI-powered systems that boost bookings, build brand loyalty, and eliminate $20K+ in lost revenue.",
   ogUrl: "https://www.withgodspeed.com",
 });
 

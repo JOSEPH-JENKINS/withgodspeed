@@ -1,13 +1,21 @@
 <template>
   <div class="footer container-grid">
-    <h2 class="header animate-text">
-      Want us to do the same for you? Book your free call below. We'll show you
-      where you're losing clients—and how to fix it.
-    </h2>
+    <h1 class="animate-text">
+      Built with AI to give you back hours, not take them
+    </h1>
+    <p class="header animate-text">
+      Want to see how it works? Tap below for a live walkthrough. We'll show you
+      the exact system and where you're leaking clients right now.
+    </p>
     <NuxtLink
       to="https://calendar.app.google/fsvtvReGv3qrMGyg7"
       class="animate-text"
-      >Book a call</NuxtLink
+      >See the live demo</NuxtLink
+    >
+    <NuxtLink
+      to="https://docs.google.com/forms/d/e/1FAIpQLSdSlUg0RbCnO_EPdMxCrIzAgWuSLglzkh7ACjsg3ljDV1W-tg/viewform?usp=header"
+      class="animate-text"
+      >Or see if your spa qualifies for the Godspeed system.</NuxtLink
     >
     <!-- <h2 class="header animate-text">
       Join now. Drop your email, phone number and get the one Simple Growth Plan
@@ -86,7 +94,7 @@
           <NuxtLink
             to="https://calendar.app.google/fsvtvReGv3qrMGyg7"
             class="animate-text"
-            >Book a call</NuxtLink
+            >Live Demo</NuxtLink
           >
         </li>
       </ul>
